@@ -1,5 +1,5 @@
 {
-    "name": "html2text/html2text",
+    "name": "ofertix/html2text",
     "description": "Converts HTML to formatted plain text",
     "type": "library",
     "license": "GPLv2",
